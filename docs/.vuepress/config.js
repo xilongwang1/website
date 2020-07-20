@@ -4,7 +4,7 @@ module.exports = {
   description: "Vuepress blog demo",
   themeConfig: {
     // 你的GitHub仓库，请正确填写
-    repo: "https://github.com/xilongwang1/blog-demo",
+    repo: "https://github.com/xilongwang1/website",
     // 自定义仓库链接文字。
     repoLabel: "My GitHub",
     nav: [
